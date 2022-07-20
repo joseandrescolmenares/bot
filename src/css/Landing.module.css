@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+.conteiner{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+   
+}
+
+.primerSeccion{
+  width:50%;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  background-color: rgb(17, 17, 17);
+  height:100vh;
+}
+
+.segundaSeccion{
+   width: 55%;
+   display: flex;
+   justify-content:center;
+   align-items: center;
+   background-color: rgb(234, 238, 243);
+   height:100vh;
+}
