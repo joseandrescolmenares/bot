@@ -28,3 +28,13 @@ body{
    background-color: rgb(234, 238, 243);
    height:100vh;
 }
+
+.div{
+    width:300px;
+}
+
+.h1{
+color:antiquewhite;
+font-size:2rem;
+}
+
