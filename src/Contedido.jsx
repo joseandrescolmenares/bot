@@ -127,7 +127,7 @@ const steps =[
   },
   {
     id: 'bien',
-    message: 'ahota si, hasta pronto 👋',
+    message: 'ahora si, hasta pronto 👋',
     
   },
   
