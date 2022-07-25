@@ -34,16 +34,9 @@ const steps =[
   {
     id: 'pregunta',
     user:true,
-    validator: (value) =>{
-      if (/^[a-z]{2,15}$/.test(value)) {
-        return true;
-    }
-    else {
-        return 'Please enter a valid name.';
-    }
-    },
     trigger: 'respuesta',
-  },
+    },
+    
   {
     id: 'respuesta',
     message: 'Que lindo nombre {previousValue}',

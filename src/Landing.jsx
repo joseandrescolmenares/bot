@@ -10,7 +10,7 @@ const Landing = () =>{
         <section className={s.primerSeccion}>
             <div className={s.div}>
                 
-            <h1 className={s.h1}>este es un chatbot que realize mientra sigo en  busqueda laboral, espero que los disfrutes 👋😀</h1>
+            <h1 className={s.h1}>este es un chatbot que realice mientra sigo en  busqueda laboral, espero que los disfrutes 👋😀</h1>
             </div>
         </section> 
         <section className={s.segundaSeccion}><Contedido /></section>
